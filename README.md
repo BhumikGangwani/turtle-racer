@@ -5,7 +5,7 @@ The exciting game of horse flat racing, except the horses are turtles.
 ## Setup
 Clone this repository to a local directory. Refer to [GitHub Pages](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for more guidance.
 
-Next, you should install the neccessary packages to run main.py: *turtle, random,* and *time*. You can install these using **pip**:
+Next, you should install the neccessary packages to run **main.py**: *turtle, random,* and *time*. You can install these using **pip**:
 ```
 - pip install turtle
 ```
